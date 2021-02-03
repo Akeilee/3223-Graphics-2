@@ -1,0 +1,16 @@
+﻿  Coursework2.cpp
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\CSC3223\CSC3223Coursework2\Coursework2.cpp(27,51): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\CSC3223\CSC3223Coursework2\Coursework2.cpp(27,72): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\CSC3223\CSC3223Coursework2\Coursework2.cpp(27,93): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\CSC3223\CSC3223Coursework2\Coursework2.cpp(27,115): warning C4305: 'argument': truncation from 'double' to 'float'
+  Renderer.cpp
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\CSC3223\CSC3223Coursework2\Coursework2.cpp(128,68): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  RenderObject.cpp
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\Common\MeshGeometry.h(48,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  Generating Code...
+C:\Users\Akeina\Desktop\CSC3223 2019(2)\Common\MeshGeometry.h(52,1): warning C4267: 'return': conversion from 'size_t' to 'unsigned int', possible loss of data
+  CSC3223Coursework2.vcxproj -> C:\Users\Akeina\Desktop\CSC3223 2019(2)\x64\Debug\CSC3223Coursework2.exe
