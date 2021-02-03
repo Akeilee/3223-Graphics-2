@@ -23,19 +23,19 @@ The base code was provided by Newcastle University.
 
 #### Work Examples
 
-Shrinking Cube:<br />
+Shrinking Cube:<br /><br />
 ![shrink](https://github.com/Akeilee/3223-Graphics-2/blob/main/shrinkCube.gif) <br /><br />
 
-Fading Cube:<br />
+Fading Cube:<br /><br />
 ![fade](https://github.com/Akeilee/3223-Graphics-2/blob/main/fadeCube.gif) <br /><br />
 
-Blending Cube:<br />
+Blending Cube:<br /><br />
 ![blend](https://github.com/Akeilee/3223-Graphics-2/blob/main/blendCube.gif) <br /><br />
 
-Geometry shader cube:<br />
+Geometry shader cube:<br /><br />
 ![geom](https://github.com/Akeilee/3223-Graphics-2/blob/main/geomCube.gif) <br /><br />
 
-Tessellation shader cube:<br />
+Tessellation shader cube:<br /><br />
 ![tess](https://github.com/Akeilee/3223-Graphics-2/blob/main/tessCube.gif) <br /><br />
 
 
@@ -43,4 +43,4 @@ Tessellation shader cube:<br />
 
 
 #### Reference List
-![Reference](https://github.com/Akeilee/3223-Graphics-2/blob/main/Reference%20List.txt) <br /><br />
+![References](https://github.com/Akeilee/3223-Graphics-2/blob/main/Reference%20List.txt) <br /><br />
