@@ -4,7 +4,7 @@ Rendering of scenes that demonstrates various OpenGL shaders learned in the 3223
 <br />
 
 ### Acknowledgements
-The base code was provided by Newcastle University.
+The main framework was provided by Newcastle University.
 <br /><br />
 
 ### Keybinds
@@ -24,7 +24,7 @@ The base code was provided by Newcastle University.
 ### Video Link
 
 [Demo Video](https://newcastle-my.sharepoint.com/:v:/g/personal/b2023652_newcastle_ac_uk/EdVh1O3B-NRGqTjRblMbx4EBsnPTNercIQjvgSkRfkrztw?e=jZPf87)
-<br />
+<br /><br />
 
 ### Work Examples
 
