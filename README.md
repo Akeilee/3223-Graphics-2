@@ -1,11 +1,11 @@
 ## 3223 - Graphics Pt 2 - 2019/2020
 
 Rendering of scenes that demonstrates various OpenGL shaders learned in the 3223 module at Newcastle University.
-
+<br />
 
 ### Acknowledgements
 The base code was provided by Newcastle University.
-
+<br />
 
 ### Keybinds
 |**R**| Reset cube |
@@ -17,9 +17,11 @@ The base code was provided by Newcastle University.
 |**M**| Mix of geometry and lighting shader |
 |**L**| Lighting on cube |
 |**1 / 2**| Wireframe view on/off |
-
+<br />
 
 ### Video Link
+<br />
+
 
 ### Work Examples
 
@@ -37,9 +39,6 @@ Geometry shader cube:<br /><br />
 
 Tessellation shader cube:<br /><br />
 ![tess](https://github.com/Akeilee/3223-Graphics-2/blob/main/tessCube.gif) <br /><br />
-
-
-
 
 
 #### Reference List
