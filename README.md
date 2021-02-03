@@ -8,6 +8,8 @@ The base code was provided by Newcastle University.
 <br />
 
 ### Keybinds
+| | |
+| :---: | :---: |
 |**R**| Reset cube |
 |**S**| Shrink cube |
 |**B**| Blend cube textures |
@@ -25,19 +27,19 @@ The base code was provided by Newcastle University.
 
 ### Work Examples
 
-Shrinking Cube:<br /><br />
+**Shrinking Cube:**<br /><br />
 ![shrink](https://github.com/Akeilee/3223-Graphics-2/blob/main/shrinkCube.gif) <br /><br />
 
-Fading Cube:<br /><br />
+**Fading Cube:**<br /><br />
 ![fade](https://github.com/Akeilee/3223-Graphics-2/blob/main/fadeCube.gif) <br /><br />
 
-Blending Cube:<br /><br />
+**Blending Cube:***<br /><br />
 ![blend](https://github.com/Akeilee/3223-Graphics-2/blob/main/blendCube.gif) <br /><br />
 
-Geometry shader cube:<br /><br />
+**Geometry shader cube:**<br /><br />
 ![geom](https://github.com/Akeilee/3223-Graphics-2/blob/main/geomCube.gif) <br /><br />
 
-Tessellation shader cube:<br /><br />
+**Tessellation shader cube:**<br /><br />
 ![tess](https://github.com/Akeilee/3223-Graphics-2/blob/main/tessCube.gif) <br /><br />
 
 
