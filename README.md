@@ -7,7 +7,7 @@ Rendering of scenes that demonstrates various OpenGL shaders learned in the 3223
 The base code was provided by Newcastle University.
 
 
-#### Keybinds
+### Keybinds
 |**R**| Reset cube |
 |**S**| Shrink cube |
 |**B**| Blend cube textures |
@@ -19,9 +19,9 @@ The base code was provided by Newcastle University.
 |**1 / 2**| Wireframe view on/off |
 
 
-#### Video Link
+### Video Link
 
-#### Work Examples
+### Work Examples
 
 Shrinking Cube:<br /><br />
 ![shrink](https://github.com/Akeilee/3223-Graphics-2/blob/main/shrinkCube.gif) <br /><br />
