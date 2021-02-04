@@ -29,19 +29,19 @@ The main framework was provided by Newcastle University.
 ### Work Examples
 
 **Shrinking Cube:**<br /><br />
-![shrink](https://github.com/Akeilee/3223-Graphics-2/blob/main/shrinkCube.gif) <br /><br />
+![shrink](https://github.com/Akeilee/3223-Graphics-2/blob/main/Screenshots/shrinkCube.gif) <br /><br />
 
 **Fading Cube:**<br /><br />
-![fade](https://github.com/Akeilee/3223-Graphics-2/blob/main/fadeCube.gif) <br /><br />
+![fade](https://github.com/Akeilee/3223-Graphics-2/blob/main/Screenshots/fadeCube.gif) <br /><br />
 
 **Blending Cube:***<br /><br />
-![blend](https://github.com/Akeilee/3223-Graphics-2/blob/main/blendCube.gif) <br /><br />
+![blend](https://github.com/Akeilee/3223-Graphics-2/blob/main/Screenshots/blendCube.gif) <br /><br />
 
 **Geometry shader cube:**<br /><br />
-![geom](https://github.com/Akeilee/3223-Graphics-2/blob/main/geomCube.gif) <br /><br />
+![geom](https://github.com/Akeilee/3223-Graphics-2/blob/main/Screenshots/geomCube.gif) <br /><br />
 
 **Tessellation shader cube:**<br /><br />
-![tess](https://github.com/Akeilee/3223-Graphics-2/blob/main/tessCube.gif) <br /><br />
+![tess](https://github.com/Akeilee/3223-Graphics-2/blob/main/Screenshots/tessCube.gif) <br /><br />
 
 
 #### Reference List
