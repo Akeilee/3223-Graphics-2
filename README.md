@@ -23,7 +23,7 @@ The main framework was provided by Newcastle University.
 
 ### Video Link
 
-[Demo Video](https://newcastle-my.sharepoint.com/:v:/g/personal/b2023652_newcastle_ac_uk/EdVh1O3B-NRGqTjRblMbx4EBsnPTNercIQjvgSkRfkrztw?e=jZPf87)
+[Demo Video](https://youtu.be/FRGN_cY4HNw )
 <br /><br />
 
 ### Work Examples
