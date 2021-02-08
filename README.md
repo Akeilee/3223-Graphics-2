@@ -7,6 +7,12 @@ Rendering of scenes that demonstrates various OpenGL shaders learned in the 3223
 The main framework was provided by Newcastle University.
 <br /><br />
 
+### Video Link
+
+[Demo Video](https://youtu.be/FRGN_cY4HNw )
+<br /><br />
+
+
 ### Keybinds
 | | |
 | :---: | :---: |
@@ -20,11 +26,6 @@ The main framework was provided by Newcastle University.
 |**L**| Lighting on cube |
 |**1 / 2**| Wireframe view on/off |
 <br />
-
-### Video Link
-
-[Demo Video](https://youtu.be/FRGN_cY4HNw )
-<br /><br />
 
 ### Work Examples
 
